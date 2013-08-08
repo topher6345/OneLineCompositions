@@ -8,6 +8,8 @@ http://www.youtube.com/watch?v=GtQdIYUtAHg&feature=share&list=TLbvWv3pviCO4
 
 This program provides the Port Audio boilerplate for writing algorithmic music with this technique. 
 
+More information: http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html
+
 ##How it works
 
 An equation such as this : 
