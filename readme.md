@@ -2,13 +2,11 @@ One Line Compositions
 =====================
 With one line of C code, you can create interesting musical compositions. 
 
-Like in the video 'Experimental Music from very short C programs.'
-
-http://www.youtube.com/watch?v=GtQdIYUtAHg&feature=share&list=TLbvWv3pviCO4
+Like in the video [Experimental Music from very short C programs.](http://www.youtube.com/watch?v=GtQdIYUtAHg&feature=share&list=TLbvWv3pviCO4)
 
 This program provides the Port Audio boilerplate for writing algorithmic music with this technique. 
 
-More information: http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html
+[More information](http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
 
 ##How it works
 
